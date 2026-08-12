@@ -1051,6 +1051,7 @@ section:nth-child(even) { background: var(--bg-2); }
   margin-bottom: 0.75rem;
 }
 .cert-issuer.nptel    { background: rgba(255,140,0,0.12); color: #ffa040; border: 1px solid rgba(255,140,0,0.25); }
+.cert-issuer.ibm      { background: rgba(15,98,254,0.12);  color: #4589ff; border: 1px solid rgba(15,98,254,0.3); }
 .cert-issuer.tata     { background: rgba(0,112,255,0.1);  color: #4da6ff; border: 1px solid rgba(0,112,255,0.25); }
 .cert-issuer.jpm      { background: rgba(0,74,152,0.12);  color: #6eb5ff; border: 1px solid rgba(0,74,152,0.3); }
 .cert-issuer.deloitte { background: rgba(134,0,0,0.12);   color: #ff7070; border: 1px solid rgba(200,0,0,0.25); }
